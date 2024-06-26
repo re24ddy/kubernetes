@@ -1,0 +1,33 @@
+Kubernetes Architecture:
+
+
+1. Control plane
+
+	API Server
+	ETCD
+	SCHEDULER
+	CONTROLLER MANAGER
+	CLOUD CONTROLLER MANAGER
+
+
+2. Worker Node
+
+	KUBELET
+	KUBE PROXY
+	CONTAINER RUNTIME
+
+
+
+Kubernetes Objects:
+
+1. POD
+
+2. Deployment
+
+3. Services
+
+4. Replicasets
+
+5. Namespaces
+
+6. ConfigMaps & Secrets
