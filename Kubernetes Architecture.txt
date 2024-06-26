@@ -17,6 +17,7 @@ Kubernetes Architecture:
 	CONTAINER RUNTIME
 
 
+#new changes
 
 Kubernetes Objects:
 
